@@ -1,4 +1,4 @@
-### Olá! Bem Vindo! Eu sou o Luis Eduardo e é um grande prazer em vê você aqui.
+### Olá! Bem Vindo! Eu sou o Luis Eduardo e é um grande prazer em vê-lo aqui.
 
 Trabalho com TI desde 2011. Durante esse tempo, trabalhei como Suporte, Redes e SysAdmin.
 No entanto, em 2017 descobrir o mundo chamado Cloud e aprendendo a construir e melhorar a infraestrutura com mais resiliência, desempenho e alta disponibilidade. Em 2019, comecei a aprender sobre a cultura DevOps e hoje estou estudando mais e mais para migrar em DevOps ou SRE.
