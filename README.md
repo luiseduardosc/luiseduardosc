@@ -30,7 +30,7 @@ No entanto, em 2017 descobrir o mundo chamado Cloud e aprendendo a construir e m
   </tr>
   <tr>
     <td>📖</td>
-    <td>Atualmente estou estuando Técnicas e SoftSkills ( DevOps/SRE no <a href="https://www.twitch.tv/linuxtipsr" target="_blank"><b>Multirão DevOps</b></a>, e também estudando para tirar Certificação AWS Architect Solutions e CKA</td>
+    <td>Estudando Técnicas e SoftSkills ( DevOps/SRE no <a href="https://www.twitch.tv/linuxtipsr" target="_blank"><b>Multirão DevOps</b></a>, e também estudando para tirar Certificação AWS Architect Solutions e CKA</td>
   </tr>
   <tr>
     <td>💬</td>
