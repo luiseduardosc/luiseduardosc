@@ -30,7 +30,7 @@ No entanto, em 2017 descobrir o mundo chamado Cloud e aprendendo a construir e m
   </tr>
   <tr>
     <td>📖</td>
-    <td>Estudando Técnicas e SoftSkills e também estudando para tirar Certificação AWS Architect Solutions e CKA</td>
+    <td>Estudando Técnicas e SoftSkills e também estudando para tirar Certificação AWS Architect Solutions</td>
   </tr>
   <tr>
     <td>💬</td>
@@ -38,7 +38,7 @@ No entanto, em 2017 descobrir o mundo chamado Cloud e aprendendo a construir e m
   </tr>
   <tr>
     <td>🌩️</td>
-    <td>AWS, Azure</td>
+    <td>AWS, Azure e estudando sobre OCI</td>
   </tr>
   <tr>
     <td>😄</td>
