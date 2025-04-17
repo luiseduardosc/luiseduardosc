@@ -26,7 +26,7 @@ No entanto, em 2017 descobrir o mundo chamado Cloud e aprendendo a construir e m
 <table>
   <tr>
     <td>🖥️</td>
-    <td>Atualmente estou trabalhando em <a href="https://www.accenture.com/br-pt" target="_blank"><b>Accenture Brasil</b></a></td>
+    <td>Atualmente estou trabalhando como <b>Consultor Independente</b></a></td>
   </tr>
   <tr>
     <td>📖</td>
